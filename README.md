@@ -1,6 +1,6 @@
 # Projeto Banco DIO
 
-- Este projeto em Python simula operações bancárias básicas, permitindo criar contas, realizar depósitos, saques e consultar extratos. O sistema é dividido em duas classes principais: Cliente e ContaBancaria.
+**Este projeto em Python simula operações bancárias básicas, permitindo criar contas, realizar depósitos, saques e consultar extratos. O sistema é dividido em duas classes principais: Cliente e ContaBancaria.**
 
 ### Classes Criadas
   - Classe Cliente
